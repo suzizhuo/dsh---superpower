@@ -1,6 +1,6 @@
 # dsh-superpower-vision
 
-DSH（DeepSeek-Hanex）Desktop 插件：**超能力全景**可视化面板。
+DSH（DeepSeek-harness）Desktop 插件：**超能力全景**可视化面板。
 
 把四类运行时状态画进 DSH 设置页：
 
